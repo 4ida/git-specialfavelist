@@ -1,0 +1,7 @@
+Invidious (frontend + api) https://github.com/iv-org/invidious
+CloudTube (frontend) + NewLeaf (API, Invidious compatible) https://git.sr.ht/~cadence/NewLeaf
+Piped https://github.com/TeamPiped/Piped (uses NewPipeExtractor)
+
+Freetube (desktop app, local extract or invidious api) https://github.com/FreeTubeApp/FreeTube
+youtube-dl (cli, + --dump-json) https://github.com/ytdl-org/youtube-dl
+pytube (cli, library?)  https://github.com/pytube/pytube
