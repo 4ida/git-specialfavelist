@@ -5,3 +5,4 @@ Piped https://github.com/TeamPiped/Piped (uses NewPipeExtractor)
 Freetube (desktop app, local extract or invidious api) https://github.com/FreeTubeApp/FreeTube
 youtube-dl (cli, + --dump-json) https://github.com/ytdl-org/youtube-dl
 pytube (cli, library?)  https://github.com/pytube/pytube
+https://github.com/ViewTube/viewtube-vue frontend using https://github.com/fent/node-ytdl-core https://github.com/TimeForANinja/node-ytsr https://github.com/TimeForANinja/node-ytpl https://github.com/FreeTubeApp/yt-comment-scraper with fallback thanks to invidious
