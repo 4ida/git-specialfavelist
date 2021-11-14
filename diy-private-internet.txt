@@ -1,0 +1,50 @@
+simplest:
+pi-hole local dns
+private ssl cert (need to install root key since its not part of big companies wh
+
+"1:1 clone" for core essential infra
+
+
+"1:1 clone" for services
+@ your own nameserver capable of multiple record types (txt, mx), if internet still exists contacts other dns providers (maybe even caches)
+@ mail server
+xmpp probably
+plemora / pixelfed / mastodon
+mediawiki / wikipedia mirror.  plus some survival books, know how from a to z (how to teach, medicine....)
+linux / fdroid repo mirror
+nextcloud
+revolt / nertivia / discord - litecord or fosscord
+ruqqus / discontinued reddit server opensource fork saidit https://github.com/libertysoft3/saidit
+gitlab or gitea
+very hard forked searx
+peertube / https://github.com/mediacms-io/mediacms
+https://github.com/SushyDev/vapor-store
+
+optionally bgp stuff, looking glass, librespeed (speedtest), 4G LTE radio software for use through SDR
+
+good to have a copy/mirror of open source in case of total apocolypse... list:
+linux kernel
+bsd kernel
+compilers
+php/nginx/apache...
+vlc
+bittorent
+git
+irc
+tor
+crypto
+libreoffice
+some basic tools, and ai tools
+kvm virtual machines
+some linux desktop
+some web browser
+archivebox (Web archive)
+https://github.com/RobinLinus/snapdrop
+obs-studio
+
+some opensource hardware:
+motherboards, cpu, how to make them...
+
+
+optionally some games:
+re3/reVC
